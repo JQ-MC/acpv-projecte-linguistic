@@ -1,0 +1,57 @@
+---
+title: "test"
+author: "Joaquim Morera"
+date: "3/22/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(stats)
+library(base)
+library(dplyr)
+library(readr)
+
+library(stringr)
+
+
+```
+
+```{r}
+dataset<-  read_csv("data.csv")
+```
+
+
+
+```{r}
+dataset %>% 
+  select(Preu) %>%
+  filter(!is.na(Preu)) %>%
+  mutate(PreuMitja = as.numeric(parse_number(Preu)))
+```
+
+
+```{r}
+
+dataset %>% 
+  select(Preu) %>%
+  filter(!is.na(Preu)) %>%
+  mutate(PreuMitja = gsub("\\D[.,']*\\D", "", Preu), nchar(PreuMitja))
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
