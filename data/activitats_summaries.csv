@@ -3,8 +3,8 @@ Alacant,Espanyol,Activitat sense llengua,No hi ha informació,Espanyol,Bilingüe
 Alaquàs,Espanyol,Activitat sense llengua,Valencià/català,Bilingüe,Valencià/català,2,0,40,1.3491180140982832
 Albal,Activitat sense llengua,Valencià/català,Espanyol,Valencià/català,Espanyol,1,2,44,2.6432776643037363
 Albatera,Espanyol,Activitat sense llengua,Activitat sense llengua,Espanyol,Espanyol,5,0,28,2.202296680824288
-Alberic,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,0,2,13,1.229779585658878
-Alboraia,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Espanyol,0,2,43,1.7266302601991648
+Alberic,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,0,2,12,1.1351811559928104
+Alboraia,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Espanyol,0,2,42,1.6864760681015099
 Alcalà de Xivert,Espanyol,Activitat sense llengua,No hi ha informació,Valencià/català,Bilingüe,3,0,17,2.5407263488267824
 Alcoi,Activitat sense llengua,Valencià/català,Espanyol,Valencià/català,Bilingüe,1,2,41,0.6934109051549181
 "Alcora, l'",Activitat sense llengua,Valencià/català,Espanyol,Valencià/català,Valencià/català,1,2,22,2.109704641350211
@@ -31,16 +31,16 @@ Benidorm,Activitat sense llengua,Espanyol,Valencià/català,Espanyol,Valencià/c
 Benifaió,Espanyol,Valencià/català,Activitat sense llengua,Valencià/català,Espanyol,1,0,56,4.679535388986379
 Benissa,Activitat sense llengua,Espanyol,Valencià/català,Bilingüe,Bilingüe,2,1,44,3.838771593090211
 Bigastro,Espanyol,Activitat sense llengua,Anglès,Espanyol,Espanyol,5,0,13,1.858736059479554
-Borriana,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,0,2,52,1.4898432799472825
+Borriana,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,0,2,50,1.4325416153339254
 Bunyol,Espanyol,No hi ha informació,Activitat sense llengua,Espanyol,Bilingüe,5,0,69,7.310870947234583
-Burjassot,Espanyol,Activitat sense llengua,No hi ha informació,Valencià/català,Bilingüe,3,0,69,1.7823930564166148
-Bétera,No hi ha informació,Valencià/català,Espanyol,Bilingüe,Valencià/català,1,2,82,3.2254257955394725
+Burjassot,Espanyol,Activitat sense llengua,Valencià/català,Valencià/català,Bilingüe,2,0,91,2.3506922917958253
+Bétera,No hi ha informació,Valencià/català,Espanyol,Bilingüe,Valencià/català,1,2,92,3.618770404751603
 Callosa d'en Sarrià,Espanyol,Activitat sense llengua,Valencià/català,Espanyol,Valencià/català,2,0,12,1.5812359994729213
 Callosa de Segura,Espanyol,Activitat sense llengua,No hi ha informació,Espanyol,Espanyol,5,0,32,1.6603538629170342
-Calp,Activitat sense llengua,Espanyol,No hi ha informació,Bilingüe,Espanyol,4,1,44,1.8699532511687207
+Calp,Activitat sense llengua,Espanyol,No hi ha informació,Bilingüe,Espanyol,4,1,43,1.8274543136421588
 "Campello, el",Espanyol,Activitat sense llengua,Valencià/català,Bilingüe,Espanyol,2,0,54,1.8612346189639126
-Canals,Espanyol,Valencià/català,Activitat sense llengua,Valencià/català,Bilingüe,1,0,37,2.7909783510598176
-Carcaixent,Valencià/català,Espanyol,No hi ha informació,Valencià/català,Espanyol,0,1,22,1.073484922416317
+Canals,Espanyol,Valencià/català,Activitat sense llengua,Valencià/català,Bilingüe,1,0,35,2.6401146564079356
+Carcaixent,Valencià/català,Espanyol,No hi ha informació,Valencià/català,Espanyol,0,1,21,1.0246901532155752
 Carlet,Valencià/català,Espanyol,Activitat sense llengua,Valencià/català,Espanyol,0,1,13,0.8201375307551574
 Castalla,Espanyol,Valencià/català,Activitat sense llengua,Valencià/català,Bilingüe,1,0,86,7.998511904761904
 Castelló de la Plana,Activitat sense llengua,Valencià/català,No hi ha informació,Valencià/català,Espanyol,1,3,130,0.7532345630370417
@@ -60,7 +60,7 @@ Elx,Espanyol,Activitat sense llengua,No hi ha informació,Bilingüe,Espanyol,3,0
 Finestrat,Activitat sense llengua,Espanyol,Valencià/català,Bilingüe,Espanyol,2,1,20,2.7019724398811134
 Foios,Activitat sense llengua,Valencià/català,No hi ha informació,Valencià/català,Valencià/català,1,5,9,1.1996800853105838
 Gandia,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,Valencià/català,2,1,94,1.2373305252073188
-Godella,Valencià/català,Activitat sense llengua,No hi ha informació,Bilingüe,Bilingüe,0,3,29,2.2261456973977127
+Godella,Activitat sense llengua,Valencià/català,No hi ha informació,Bilingüe,Bilingüe,1,3,36,2.7634912105626777
 Guardamar del Segura,Espanyol,Activitat sense llengua,Valencià/català,Bilingüe,Espanyol,2,0,71,4.4422198585997625
 Ibi,Activitat sense llengua,Espanyol,Valencià/català,Espanyol,Bilingüe,2,1,19,0.8033147302553695
 Llíria,Activitat sense llengua,Valencià/català,Espanyol,Valencià/català,Valencià/català,1,2,114,4.820703653585927
@@ -69,7 +69,6 @@ Massamagrell,No hi ha informació,Valencià/català,Espanyol,Bilingüe,Valencià
 Meliana,Valencià/català,No hi ha informació,Activitat sense llengua,Valencià/català,Valencià/català,0,5,9,0.8237232289950577
 Mislata,Espanyol,No hi ha informació,No hi ha informació,Espanyol,Espanyol,5,0,14,0.315884476534296
 Moncofa,Activitat sense llengua,Espanyol,Valencià/català,Bilingüe,Bilingüe,2,1,13,1.868352974992814
-Monforte del Cid,Espanyol,Espanyol,Espanyol,Espanyol,Espanyol,5,0,1,0.11764705882352941
 Montcada,Espanyol,Valencià/català,Activitat sense llengua,Valencià/català,Espanyol,1,0,21,0.96
 Montserrat,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Espanyol,0,2,13,1.5020219526285385
 Monòver,Activitat sense llengua,Valencià/català,Espanyol,Valencià/català,Espanyol,1,2,31,2.543485395470955
@@ -86,8 +85,8 @@ Ondara,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Vale
 Onil,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,Espanyol,2,1,46,6.07742105958515
 Ontinyent,Valencià/català,Activitat sense llengua,No hi ha informació,Valencià/català,Valencià/català,0,3,50,1.390975351916764
 Orihuela,Espanyol,Espanyol,Espanyol,Espanyol,Espanyol,5,0,6,0.07600709399543958
-Orpesa,Espanyol,Valencià/català,Activitat sense llengua,Espanyol,Bilingüe,1,0,89,9.12352639671963
-Paiporta,Valencià/català,Espanyol,Activitat sense llengua,Valencià/català,Espanyol,0,1,25,0.9469338282640809
+Orpesa,Espanyol,Valencià/català,Activitat sense llengua,Espanyol,Bilingüe,1,0,87,8.918503331624807
+Paiporta,Valencià/català,Espanyol,Anglès,Valencià/català,Espanyol,0,1,17,0.6439150032195751
 Paterna,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,Espanyol,2,1,39,0.5465170050868121
 Pedreguer,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Bilingüe,0,2,58,7.244566575068698
 Pego,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,0,2,40,3.90625
@@ -99,22 +98,22 @@ Pilar de la Horadada,Espanyol,Activitat sense llengua,Anglès,Espanyol,Espanyol,
 "Pobla de Farnals, la",Espanyol,Valencià/català,No hi ha informació,Bilingüe,Valencià/català,1,0,28,3.412553321145643
 "Pobla de Vallbona, la",Valencià/català,Espanyol,Activitat sense llengua,Valencià/català,Valencià/català,0,1,36,1.42433234421365
 "Puig de Santa Maria, el",Valencià/català,Espanyol,No hi ha informació,Valencià/català,Bilingüe,0,1,22,2.5180267826485063
-Puçol,Espanyol,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,1,0,38,1.9023779724655818
+Puçol,Espanyol,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,1,0,36,1.8022528160200249
 Quart de Poblet,No hi ha informació,Valencià/català,Espanyol,Valencià/català,Bilingüe,1,2,56,2.236868384262033
 Rafelbunyol,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,0,2,19,2.0318682493850924
 Redován,Espanyol,Activitat sense llengua,Activitat sense llengua,Espanyol,Espanyol,5,0,11,1.3651030032266072
 Requena,Espanyol,Activitat sense llengua,No hi ha informació,Espanyol,Valencià/català,3,0,32,1.5814183345688164
 Riba-roja del Túria,Espanyol,Activitat sense llengua,No hi ha informació,Valencià/català,Valencià/català,5,0,17,0.7456467388920567
-Rocafort,Espanyol,Activitat sense llengua,No hi ha informació,Bilingüe,Espanyol,3,0,43,5.77568838146407
+Rocafort,Espanyol,Activitat sense llengua,No hi ha informació,Bilingüe,Espanyol,3,0,57,7.656145063801208
 Rojales,Activitat sense llengua,Espanyol,Anglès,Espanyol,Bilingüe,5,1,28,1.7524095631493304
 San Fulgencio,Espanyol,Activitat sense llengua,Activitat sense llengua,Espanyol,Espanyol,5,0,9,1.0654670297146918
-Sant Antoni de Benaixeve,Activitat sense llengua,Espanyol,No hi ha informació,Bilingüe,Bilingüe,3,1,11,1.1577728660141038
+Sant Antoni de Benaixeve,Espanyol,Activitat sense llengua,No hi ha informació,Bilingüe,Espanyol,3,0,16,1.6840332596568783
 Sant Joan d'Alacant,Espanyol,Activitat sense llengua,Valencià/català,Espanyol,Valencià/català,2,0,101,4.145630669457784
 Sant Vicent del Raspeig,Activitat sense llengua,Espanyol,No hi ha informació,Bilingüe,Valencià/català,3,1,35,0.594106463878327
 Santa Pola,Activitat sense llengua,Espanyol,Valencià/català,Espanyol,Valencià/català,2,1,70,2.04990043340752
 Sax,Espanyol,Activitat sense llengua,No hi ha informació,Espanyol,Espanyol,5,0,33,3.321590337191746
-Sedaví,Activitat sense llengua,No hi ha informació,Valencià/català,Bilingüe,Valencià/català,2,3,19,1.8368136117556073
-Silla,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,0,2,33,1.7177658633074802
+Sedaví,Activitat sense llengua,No hi ha informació,Valencià/català,Bilingüe,Valencià/català,2,3,23,2.223511214230472
+Silla,Valencià/català,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,0,2,34,1.7698193743167978
 Sogorb,Espanyol,Activitat sense llengua,Valencià/català,Espanyol,Espanyol,2,0,53,5.799321588795274
 Sueca,Activitat sense llengua,Valencià/català,Espanyol,Valencià/català,Valencià/català,1,2,88,3.1864431328529528
 Tavernes Blanques,Activitat sense llengua,No hi ha informació,Valencià/català,Bilingüe,Valencià/català,2,3,29,3.1504617055947852
@@ -123,7 +122,7 @@ Teulada,Valencià/català,Activitat sense llengua,Espanyol,Bilingüe,Bilingüe,0
 Torrent,Valencià/català,Espanyol,Activitat sense llengua,Valencià/català,Bilingüe,0,1,46,0.5474561142517108
 Torrevieja,Espanyol,Activitat sense llengua,Activitat sense llengua,Espanyol,Espanyol,5,0,47,0.5673450665121557
 Torís,Valencià/català,Espanyol,Activitat sense llengua,Valencià/català,Espanyol,0,1,36,5.209840810419681
-Utiel,Espanyol,Activitat sense llengua,Activitat sense llengua,Espanyol,Espanyol,5,0,36,3.1364349189754313
+Utiel,Espanyol,Activitat sense llengua,Activitat sense llengua,Espanyol,Espanyol,5,0,35,3.0493117267816694
 "Vall d'Uixó, la",Valencià/català,Espanyol,Activitat sense llengua,Valencià/català,Espanyol,0,1,110,3.4866398301055503
 València,Activitat sense llengua,Espanyol,Valencià/català,Valencià/català,Bilingüe,2,1,381,0.48243481431957697
 "Vila Joiosa, la",Activitat sense llengua,Espanyol,Valencià/català,Bilingüe,Valencià/català,2,1,49,1.412755160881098
