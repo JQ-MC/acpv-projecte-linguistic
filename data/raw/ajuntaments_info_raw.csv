@@ -18,10 +18,13 @@ Ondara,Alacant,La Marina Alta,7080,"116,10",,PSOE,PSOE,"1.331,74€",Valencià,P
 Pedreguer,Alacant,La Marina Alta,8006,"156,70",,COMPROMÍS,COMPROMÍS,"1.140,00€",Valencià,COMPROMÍS,COMPROMÍS
 Tavernes de la Valldigna,València,Safor,17162,"141,20",,COMPROMÍS,PSOE,"25.597,98€",Valencià,COMPROMÍS,COMPROMÍS
 "Vall d'Uixó, la",Castelló,Plana Baixa,31549,"132,70",,PSOE,PSOE,"6.849,91€",Valencià,PSOE,COMPROMÍS
+Catarroja,València,Horta Sud,28509,"87,50",,COMPROMÍS,PSOE,"35.904,56€",Valencià,COMPROMÍS,COMPROMÍS
+Foios,València,Horta Nord,7502,"105,40",,COMPROMÍS,COMPROMÍS,"3.462,50€",Valencià,PSOE,COMPROMÍS
 Ontinyent,València,Vall d'Albaida,35946,"125,90",,ENS UNEIX,ENS UNEIX,"2.336,65€",Valencià,ENS UNEIX,ENS UNEIX
 Sagunt,València,Camp de Morvedre,65669,,,PSOE,PSOE,,Valencià,COMPROMÍS,EU
 Xàtiva,València,Costera,29459,"122,80",,PSOE,PSOE,"28.310,24€",Valencià,PSOE,EU
 Asp,Alacant,El Vinalopó Mitjà,21088,"98,00",,EUPV,EUPV,,castellà,EUPV,EUPV
+Cheste,València,Foia de Bunyol,8871,"123,80",,PSOE,PSOE,,castellà,EUPV,EUPV
 Bétera,València,Camp de Túria,25423,"79,10",,PP,,,Valencià,MC-TC,MC-TC
 Alacant,Alacant,L'Alacantí,337304,"125,90",Sí,PP,PP,,Valencià,PP,PP
 Albatera,Alacant,El Baix Segura,12714,"79,20",,PP,PP,,Castellà,PP,PP
@@ -75,6 +78,7 @@ Teulada,Alacant,La Marina Alta,11466,"235,80",,PP,PP,,Valencià,PSOE,PP
 Torrent,València,Horta Sud,84025,"92,20",,PSOE,PP,,Valencià,PSOE,PP
 Torrevieja,Alacant,El Baix Segura,82842,"163,30",,PP,PP,,castellà,PP,PP
 "Vila Joiosa, la",Alacant,La Marina Baixa,34684,"122,40",,PSOE,PP,"35.090,88€",Valencià,PSOE,PP
+Canals,València,Costera,13257,"134,50",,COMPROMÍS,PP,,Valencià,COMPROMÍS,PP
 Oliva,València,Safor,25119,"139,70",,COMPROMÍS,PROJECTE OLIVA,"25.055,53€",Valencià,COMPROMÍS,PROJECTE OLIVA
 Alginet,València,Ribera Alta,13942,"105,10",,PSd'A,PP,"20.173,46€",Valencià,PSd'A,PSd'A
 Alaquàs,València,Horta Sud,29649,"125,90",,PSOE,PSOE,"21.258,36€",Valencià,PSOE,PSOE
@@ -111,31 +115,27 @@ Vila-real,Castelló,Plana Baixa,51130,"97,60",,PSOE,PSOE,"40.244,17€",Valenci�
 Villena,Alacant,L'Alt Vinalopó,34025,"116,20",,PSOE,PSOE,,castellà,PSOE,PSOE
 Vinaròs,Castelló,Baix Maestrat,28862,"126,30",,PSOE,PSOE,"35.633,33€",Valencià,PSOE,PSOE
 Xixona,Alacant,L'Alacantí,6861,"159,70",,PSOE,PSOE,,Valencià,PSOE,PSOE
+Mislata,València,Horta Sud,44320,"130,80",,PSOE,PSOE,"26.954,10€",Valencià,PSOE,PSOE
+Monòver,Alacant,El Vinalopó Mitjà,12188,"147,70",,PSOE,PSOE,,Valencià,PSOE,PSOE
 Massamagrell,València,Horta Nord,16132,"107,30",,PSOE,PP,"28.581,46€",Valencià,PSOE,VOX
 Orihuela,Alacant,El Baix Segura,78940,"158,80",,PSOE,PP,,castellà,EUPV,VOX
 Xirivella,València,Horta Sud,30208,"117,30",,PSOE,PP,"28.039,01€",Valencià,PSOE,VOX
-Albal,València,Horta Sud,16646,"74,90",,PSOE,PSOE,"15.020,18€",Valencià,COMPROMÍS,
-Alfafar,València,Horta Sud,21415,"121,40",,PP,,"18.274,89€",Valencià,PP,
-Benaguasil,València,Camp de Túria,11369,"125,10",,PP,,"1.864,43€",Valencià,PP,
-Canals,València,Costera,13257,"134,50",,COMPROMÍS,,,Valencià,COMPROMÍS,
-Catarroja,València,Horta Sud,28509,"87,50",,COMPROMÍS,,"35.904,56€",Valencià,COMPROMÍS,
-Cheste,València,Foia de Bunyol,8871,"123,80",,PSOE,,,castellà,EUPV,
-Foios,València,Horta Nord,7502,"105,40",,COMPROMÍS,,"3.462,50€",Valencià,PSOE,
+Albal,València,Horta Sud,16646,"74,90",,PSOE,PP,"15.020,18€",Valencià,COMPROMÍS,
+Alfafar,València,Horta Sud,21415,"121,40",,PP,PP,"18.274,89€",Valencià,PP,PP
+Benaguasil,València,Camp de Túria,11369,"125,10",,PP,PP,"1.864,43€",Valencià,PP,PP
 Ibi,Alacant,L'Alcoià,23652,"130,80",,PP,PSOE,,Valencià,PP,
-Mislata,València,Horta Sud,44320,"130,80",,PSOE,,"26.954,10€",Valencià,PSOE,
-Monforte del Cid,Alacant,El Vinalopó Mitjà,8500,"77,50",,EUPV,,,castellà,COMPROMÍS,
-Monòver,Alacant,El Vinalopó Mitjà,12188,"147,70",,PSOE,,,Valencià,PSOE,
-Montcada,València,Horta Nord,21875,"130,20",,PSOE,,"24.513,07€",Valencià,PSOE,
-Montserrat,València,Ribera Alta,8655,"70,80",,PSOE,,"26.140,43€",Valencià,PSOE,
+Monforte del Cid,Alacant,El Vinalopó Mitjà,8500,"77,50",,EUPV,EUPV,,castellà,COMPROMÍS,EUPV
+Montcada,València,Horta Nord,21875,"130,20",,PSOE,PSOE,"24.513,07€",Valencià,PSOE,PSOE
+Montserrat,València,Ribera Alta,8655,"70,80",,PSOE,PP,"26.140,43€",Valencià,PSOE,VOX
 Muro d'Alcoi,Alacant,El Comtat,9326,"103,60",,PP,COMPROMÍS,"24.513,07€",Valencià,EL PI,
 Orpesa,Castelló,Plana Alta,9755,"113,90",Sí,CS,PP + VOX + CS,,Valencià,PSOE,
-Paiporta,València,Horta Sud,26401,"83,60",,PSOE,,"21.800,82€",Valencià,PSOE,
-Pinós,Alacant,El Vinalopó Mitjà,8142,"123,90",,PSOE,,,Valencià,PSOE,
-"Pobla de Farnals, la",València,Horta Nord,8205,"111,30",,PSOE,,"6.333,04€",Valencià,PSOE,
-Redován,Alacant,El Baix Segura,8058,"83,00",,PP,,,castellà,PP,
-Requena,València,Plana d'Utiel-Requena,20235,"140,60",,PSOE,,,castellà,PSOE,
-Sant Antoni de Benaixeve,València,Camp de Túria,9501,"49,30",,PSOE,,,Valencià,AGRUPACIÓ INDEPENDENT ,
-Sedaví,València,Horta Sud,10344,"125,30",,PSOE,,"3.021,05€",Valencià,PSOE,
-Utiel,València,Plana d'Utiel-Requena,11478,"177,00",,PSOE,,,castellà,PSOE,
+Paiporta,València,Horta Sud,26401,"83,60",,PSOE,PSOE,"21.800,82€",Valencià,PSOE,PSOE
+Pinós,Alacant,El Vinalopó Mitjà,8142,"123,90",,PSOE,PSOE,,Valencià,PSOE,PSOE
+"Pobla de Farnals, la",València,Horta Nord,8205,"111,30",,PSOE,PSOE,"6.333,04€",Valencià,PSOE,PSOE
+Redován,Alacant,El Baix Segura,8058,"83,00",,PP,PP,,castellà,PP,PP
+Requena,València,Plana d'Utiel-Requena,20235,"140,60",,PSOE,PP,,castellà,PSOE,PP
+Sant Antoni de Benaixeve,València,Camp de Túria,9501,"49,30",,PSOE,UCIN,,Valencià,AGRUPACIÓ INDEPENDENT ,VOX
+Sedaví,València,Horta Sud,10344,"125,30",,PSOE,PSOE,"3.021,05€",Valencià,PSOE,PSOE
+Utiel,València,Plana d'Utiel-Requena,11478,"177,00",,PSOE,PP,,castellà,PSOE,PP
 València,València,València,789744,"153,80",Sí,COMPROMÍS,,"45.668,66€",Valencià,PSOE,
-Vilamarxant,València,Camp de Túria,10097,"107,50",,CS,,,Valencià,PP,
+Vilamarxant,València,Camp de Túria,10097,"107,50",,CS,PP,,Valencià,PP,PP

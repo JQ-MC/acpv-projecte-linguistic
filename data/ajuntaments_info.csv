@@ -16,10 +16,13 @@ Ondara,Alacant,La Marina Alta,7080,116.1,No,PSOE,PSOE,1331.74,Valencià,PSOE,COM
 Pedreguer,Alacant,La Marina Alta,8006,156.7,No,COMPROMÍS,COMPROMÍS,1140.0,Valencià,COMPROMÍS,COMPROMÍS
 Tavernes de la Valldigna,València,Safor,17162,141.2,No,COMPROMÍS,PSOE,25597.98,Valencià,COMPROMÍS,COMPROMÍS
 "Vall d'Uixó, la",Castelló,Plana Baixa,31549,132.7,No,PSOE,PSOE,6849.91,Valencià,PSOE,COMPROMÍS
+Catarroja,València,Horta Sud,28509,87.5,No,COMPROMÍS,PSOE,35904.56,Valencià,COMPROMÍS,COMPROMÍS
+Foios,València,Horta Nord,7502,105.4,No,COMPROMÍS,COMPROMÍS,3462.5,Valencià,PSOE,COMPROMÍS
 Ontinyent,València,Vall d'Albaida,35946,125.9,No,ENS UNEIX,ENS UNEIX,2336.65,Valencià,ENS UNEIX,ENS UNEIX
 Sagunt,València,Camp de Morvedre,65669,,No,PSOE,PSOE,,Valencià,COMPROMÍS,EU
 Xàtiva,València,Costera,29459,122.8,No,PSOE,PSOE,28310.24,Valencià,PSOE,EU
 Asp,Alacant,El Vinalopó Mitjà,21088,98.0,No,EUPV,EUPV,,castellà,EUPV,EUPV
+Cheste,València,Foia de Bunyol,8871,123.8,No,PSOE,PSOE,,castellà,EUPV,EUPV
 Bétera,València,Camp de Túria,25423,79.1,No,PP,,,Valencià,MC-TC,MC-TC
 Alacant,Alacant,L'Alacantí,337304,125.9,Sí,PP,PP,,Valencià,PP,PP
 Albatera,Alacant,El Baix Segura,12714,79.2,No,PP,PP,,Castellà,PP,PP
@@ -73,6 +76,7 @@ Teulada,Alacant,La Marina Alta,11466,235.8,No,PP,PP,,Valencià,PSOE,PP
 Torrent,València,Horta Sud,84025,92.2,No,PSOE,PP,,Valencià,PSOE,PP
 Torrevieja,Alacant,El Baix Segura,82842,163.3,No,PP,PP,,castellà,PP,PP
 "Vila Joiosa, la",Alacant,La Marina Baixa,34684,122.4,No,PSOE,PP,35090.88,Valencià,PSOE,PP
+Canals,València,Costera,13257,134.5,No,COMPROMÍS,PP,,Valencià,COMPROMÍS,PP
 Oliva,València,Safor,25119,139.7,No,COMPROMÍS,PROJECTE OLIVA,25055.53,Valencià,COMPROMÍS,PROJECTE OLIVA
 Alginet,València,Ribera Alta,13942,105.1,No,PSd'A,PP,20173.46,Valencià,PSd'A,PSd'A
 Alaquàs,València,Horta Sud,29649,125.9,No,PSOE,PSOE,21258.36,Valencià,PSOE,PSOE
@@ -109,31 +113,27 @@ Vila-real,Castelló,Plana Baixa,51130,97.6,No,PSOE,PSOE,40244.17,Valencià,PSOE,
 Villena,Alacant,L'Alt Vinalopó,34025,116.2,No,PSOE,PSOE,,castellà,PSOE,PSOE
 Vinaròs,Castelló,Baix Maestrat,28862,126.3,No,PSOE,PSOE,35633.33,Valencià,PSOE,PSOE
 Xixona,Alacant,L'Alacantí,6861,159.7,No,PSOE,PSOE,,Valencià,PSOE,PSOE
+Mislata,València,Horta Sud,44320,130.8,No,PSOE,PSOE,26954.1,Valencià,PSOE,PSOE
+Monòver,Alacant,El Vinalopó Mitjà,12188,147.7,No,PSOE,PSOE,,Valencià,PSOE,PSOE
 Massamagrell,València,Horta Nord,16132,107.3,No,PSOE,PP,28581.46,Valencià,PSOE,VOX
 Orihuela,Alacant,El Baix Segura,78940,158.8,No,PSOE,PP,,castellà,EUPV,VOX
 Xirivella,València,Horta Sud,30208,117.3,No,PSOE,PP,28039.01,Valencià,PSOE,VOX
-Albal,València,Horta Sud,16646,74.9,No,PSOE,PSOE,15020.18,Valencià,COMPROMÍS,
-Alfafar,València,Horta Sud,21415,121.4,No,PP,,18274.89,Valencià,PP,
-Benaguasil,València,Camp de Túria,11369,125.1,No,PP,,1864.43,Valencià,PP,
-Canals,València,Costera,13257,134.5,No,COMPROMÍS,,,Valencià,COMPROMÍS,
-Catarroja,València,Horta Sud,28509,87.5,No,COMPROMÍS,,35904.56,Valencià,COMPROMÍS,
-Cheste,València,Foia de Bunyol,8871,123.8,No,PSOE,,,castellà,EUPV,
-Foios,València,Horta Nord,7502,105.4,No,COMPROMÍS,,3462.5,Valencià,PSOE,
+Albal,València,Horta Sud,16646,74.9,No,PSOE,PP,15020.18,Valencià,COMPROMÍS,
+Alfafar,València,Horta Sud,21415,121.4,No,PP,PP,18274.89,Valencià,PP,PP
+Benaguasil,València,Camp de Túria,11369,125.1,No,PP,PP,1864.43,Valencià,PP,PP
 Ibi,Alacant,L'Alcoià,23652,130.8,No,PP,PSOE,,Valencià,PP,
-Mislata,València,Horta Sud,44320,130.8,No,PSOE,,26954.1,Valencià,PSOE,
-Monforte del Cid,Alacant,El Vinalopó Mitjà,8500,77.5,No,EUPV,,,castellà,COMPROMÍS,
-Monòver,Alacant,El Vinalopó Mitjà,12188,147.7,No,PSOE,,,Valencià,PSOE,
-Montcada,València,Horta Nord,21875,130.2,No,PSOE,,24513.07,Valencià,PSOE,
-Montserrat,València,Ribera Alta,8655,70.8,No,PSOE,,26140.43,Valencià,PSOE,
+Monforte del Cid,Alacant,El Vinalopó Mitjà,8500,77.5,No,EUPV,EUPV,,castellà,COMPROMÍS,EUPV
+Montcada,València,Horta Nord,21875,130.2,No,PSOE,PSOE,24513.07,Valencià,PSOE,PSOE
+Montserrat,València,Ribera Alta,8655,70.8,No,PSOE,PP,26140.43,Valencià,PSOE,VOX
 Muro d'Alcoi,Alacant,El Comtat,9326,103.6,No,PP,COMPROMÍS,24513.07,Valencià,EL PI,
 Orpesa,Castelló,Plana Alta,9755,113.9,Sí,CS,PP + VOX + CS,,Valencià,PSOE,
-Paiporta,València,Horta Sud,26401,83.6,No,PSOE,,21800.82,Valencià,PSOE,
-Pinós,Alacant,El Vinalopó Mitjà,8142,123.9,No,PSOE,,,Valencià,PSOE,
-"Pobla de Farnals, la",València,Horta Nord,8205,111.3,No,PSOE,,6333.04,Valencià,PSOE,
-Redován,Alacant,El Baix Segura,8058,83.0,No,PP,,,castellà,PP,
-Requena,València,Plana d'Utiel-Requena,20235,140.6,No,PSOE,,,castellà,PSOE,
-Sant Antoni de Benaixeve,València,Camp de Túria,9501,49.3,No,PSOE,,,Valencià,AGRUPACIÓ INDEPENDENT ,
-Sedaví,València,Horta Sud,10344,125.3,No,PSOE,,3021.05,Valencià,PSOE,
-Utiel,València,Plana d'Utiel-Requena,11478,177.0,No,PSOE,,,castellà,PSOE,
+Paiporta,València,Horta Sud,26401,83.6,No,PSOE,PSOE,21800.82,Valencià,PSOE,PSOE
+Pinós,Alacant,El Vinalopó Mitjà,8142,123.9,No,PSOE,PSOE,,Valencià,PSOE,PSOE
+"Pobla de Farnals, la",València,Horta Nord,8205,111.3,No,PSOE,PSOE,6333.04,Valencià,PSOE,PSOE
+Redován,Alacant,El Baix Segura,8058,83.0,No,PP,PP,,castellà,PP,PP
+Requena,València,Plana d'Utiel-Requena,20235,140.6,No,PSOE,PP,,castellà,PSOE,PP
+Sant Antoni de Benaixeve,València,Camp de Túria,9501,49.3,No,PSOE,UCIN,,Valencià,AGRUPACIÓ INDEPENDENT ,VOX
+Sedaví,València,Horta Sud,10344,125.3,No,PSOE,PSOE,3021.05,Valencià,PSOE,PSOE
+Utiel,València,Plana d'Utiel-Requena,11478,177.0,No,PSOE,PP,,castellà,PSOE,PP
 València,València,València,789744,153.8,Sí,COMPROMÍS,,45668.66,Valencià,PSOE,
-Vilamarxant,València,Camp de Túria,10097,107.5,No,CS,,,Valencià,PP,
+Vilamarxant,València,Camp de Túria,10097,107.5,No,CS,PP,,Valencià,PP,PP
